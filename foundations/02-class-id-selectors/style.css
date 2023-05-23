@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+
+.pink{
+    background-color: pink;
+}
+.bigger{
+    font-size:1.5rem;
+}
+#number2{
+    color:blue;
+    font-size:2rem;
+}
+
+#number4{
+    font-weight:bold;
+    background-color: greenyellow;
+}
